@@ -45,32 +45,42 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
  
+<img width="1165" height="1600" alt="CIRCUIT DIAGRAM 1" src="https://github.com/user-attachments/assets/2a0b8f8d-992a-4060-ba60-06336f8e9582" />
 
 
 b.  KCL:
- 
+ <img width="1101" height="1600" alt="CIRCUIT DIAGRAM 2" src="https://github.com/user-attachments/assets/29c9bb04-6546-45c7-b56b-46561b67adb8" />
+
 
 Calculation:
 
 a.   KVL:
  
+<img width="965" height="1600" alt="CAL1" src="https://github.com/user-attachments/assets/3ce7d5d6-a14a-4bd4-b043-08149b0e43b3" />
+<img width="711" height="1600" alt="CAL 1 B" src="https://github.com/user-attachments/assets/862d491e-10db-4e42-ba5e-a79e715e02b3" />
 
 
 b.  KCL:
+<img width="1361" height="1600" alt="CAL 2" src="https://github.com/user-attachments/assets/340cb81e-92c7-4fa3-b29a-5bad23ede3e8" />
 
+<img width="1275" height="1600" alt="CAL 2 B" src="https://github.com/user-attachments/assets/91d3b054-daf3-43ae-8cbe-e9b0e708d9b1" />
 
 
 
 Tabulation:
 
 a.   KVL:
- 
+ <img width="795" height="1600" alt="KVL TABLE" src="https://github.com/user-attachments/assets/df2c038e-4b73-43c6-bd6b-7577f211fd81" />
+
 
 
 b.  KCL:
 
+<img width="772" height="1600" alt="KCL TABLE" src="https://github.com/user-attachments/assets/2e3c5030-2834-4e01-9a15-2b02761aef76" />
 
 
 RESULT:
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/74311781-33e0-4bc8-b444-5363a3e33a80" />
+<img width="1920" height="1080" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/a10f2755-e778-4e34-980b-be5ab8b5bcb6" />
 
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
