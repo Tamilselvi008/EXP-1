@@ -45,38 +45,38 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
  
-<img width="1165" height="1600" alt="CIRCUIT DIAGRAM 1" src="https://github.com/user-attachments/assets/2a0b8f8d-992a-4060-ba60-06336f8e9582" />
+<img width="1600" height="1165" alt="CIRCUIT DIAGRAM 1" src="https://github.com/user-attachments/assets/7c69b131-efe2-496d-b0e1-222293ef4f74" />
 
 
 b.  KCL:
- <img width="1101" height="1600" alt="CIRCUIT DIAGRAM 2" src="https://github.com/user-attachments/assets/29c9bb04-6546-45c7-b56b-46561b67adb8" />
 
+<img width="1600" height="1101" alt="CIRCUIT DIAGRAM 2" src="https://github.com/user-attachments/assets/ad541ca7-16b0-4576-896c-bc716f60d2e9" />
 
 Calculation:
 
 a.   KVL:
  
-<img width="965" height="1600" alt="CAL1" src="https://github.com/user-attachments/assets/3ce7d5d6-a14a-4bd4-b043-08149b0e43b3" />
-<img width="711" height="1600" alt="CAL 1 B" src="https://github.com/user-attachments/assets/862d491e-10db-4e42-ba5e-a79e715e02b3" />
+<img width="1600" height="965" alt="CAL1" src="https://github.com/user-attachments/assets/15da99bb-ce12-4fbc-9454-7ccd071a3f57" />
+<img width="1600" height="711" alt="CAL 1 B" src="https://github.com/user-attachments/assets/8fe240a3-26bf-4d49-9dd2-1303e2d56752" />
 
 
 b.  KCL:
-<img width="1361" height="1600" alt="CAL 2" src="https://github.com/user-attachments/assets/340cb81e-92c7-4fa3-b29a-5bad23ede3e8" />
+<img width="1600" height="1361" alt="CAL 2" src="https://github.com/user-attachments/assets/a3fb62a1-1800-48fd-84ad-83ade2846ac5" />
+<img width="1600" height="1275" alt="CAL 2 B" src="https://github.com/user-attachments/assets/352521f2-7ba3-41ec-8850-283a62cad2d1" />
 
-<img width="1275" height="1600" alt="CAL 2 B" src="https://github.com/user-attachments/assets/91d3b054-daf3-43ae-8cbe-e9b0e708d9b1" />
 
 
 
 Tabulation:
 
 a.   KVL:
- <img width="795" height="1600" alt="KVL TABLE" src="https://github.com/user-attachments/assets/df2c038e-4b73-43c6-bd6b-7577f211fd81" />
+<img width="1600" height="795" alt="KVL TABLE" src="https://github.com/user-attachments/assets/5d4c6b21-29ca-4ebe-acbb-2ce617e91bf3" />
 
 
 
 b.  KCL:
+<img width="1600" height="772" alt="KCL TABLE" src="https://github.com/user-attachments/assets/94cc024f-4058-49c5-80ce-3a97800b5bc2" />
 
-<img width="772" height="1600" alt="KCL TABLE" src="https://github.com/user-attachments/assets/2e3c5030-2834-4e01-9a15-2b02761aef76" />
 
 
 RESULT:
