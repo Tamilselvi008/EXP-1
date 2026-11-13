@@ -90,7 +90,7 @@ Build the KVL and KCL circuits in Proteus using the same resistor values and sup
 
 | S. No. | Supply voltage Vs (V) | VR1 (V) | VR2 (V) | VR3 (V) | VR1 + VR2 + VR3 (V) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Theoritical | 100 |  16.68 V | 27.8 V | 55.6 V | 100.5 V|
+| Theoritical | 100 |  16.68 V | 27.8 V | 55.6 V | 100.05 V|
 | Practical | 100 | 16.7 V | 27.8 V | 55.6 V | 100.1 |
 
 ### B. KCL – Current measurements
