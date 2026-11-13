@@ -54,13 +54,15 @@ b. To verify Kirchhoff's Current Law (KCL) for the given circuit.
 
 ### A. KVL circuit diagram
 
-*[ Insert the KVL circuit diagram here ]*
+<img width="1600" height="1165" alt="CIRCUIT DIAGRAM 1" src="https://github.com/user-attachments/assets/d64ee650-d640-4810-b97b-22bb3a6dcfcc" />
+
 
 **Figure 1:** KVL verification circuit
 
 ### B. KCL circuit diagram
 
-*[ Insert the KCL circuit diagram here ]*
+<img width="1600" height="1101" alt="CIRCUIT DIAGRAM 2" src="https://github.com/user-attachments/assets/d0414f5c-e2bf-42b8-9d94-3391586a6227" />
+
 
 **Figure 2:** KCL verification circuit
 
@@ -70,13 +72,15 @@ Build the KVL and KCL circuits in Proteus using the same resistor values and sup
 
 ### A. KVL simulation
 
-*[ Paste the Proteus KVL simulation screenshot here ]*
+<img width="1920" height="1011" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/85c7d921-a063-4a75-859d-b83212a67def" />
+
 
 **Figure 3:** Proteus simulation of KVL circuit
 
 ### B. KCL simulation
 
-*[ Paste the Proteus KCL simulation screenshot here ]*
+<img width="1548" height="825" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/8feb6101-8eab-4c7a-89c9-83f8453795b9" />
+
 
 **Figure 4:** Proteus simulation of KCL circuit
 
@@ -104,7 +108,9 @@ According to KVL, **Vs = VR1 + VR2 + VR3**.
 
 Substitute the observed values and verify that the algebraic sum of the voltage drops is approximately equal to the supply voltage.
 
-*[ Paste the KVL calculation screenshot here ]*
+<img width="1600" height="965" alt="CAL1" src="https://github.com/user-attachments/assets/72195af2-0fb8-49b4-bf3c-68043454416e" />
+<img width="1600" height="711" alt="CAL 1 B" src="https://github.com/user-attachments/assets/6fabdc2e-4359-4a70-aaab-07addc6aed1e" />
+
 
 **Figure 5:** KVL calculation
 
@@ -114,7 +120,9 @@ According to KCL, **It = I1 + I2 + I3**.
 
 Substitute the observed values and verify that the total current entering the node is approximately equal to the sum of the branch currents.
 
-*[ Paste the KCL calculation screenshot here ]*
+<img width="1600" height="1361" alt="CAL 2" src="https://github.com/user-attachments/assets/bd555f0f-1f91-4178-bcb3-417e2df9c904" />
+<img width="1600" height="1275" alt="CAL 2 B" src="https://github.com/user-attachments/assets/6d31a5ca-e83f-45b8-8c7f-9f7e30fc1ce3" />
+
 
 **Figure 6:** KCL calculation
 
