@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 1 – VERIFICATION OF KIRCHHOFF'S LAWS
 
-| **Name:** |  | **Reg. No.:** |  |
+| **Name:** |TAMILSELVI S  | **Reg. No.:** | 26016264|
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** | 13-11-2026| **Batch / Section:** |260DJ166 |
 
 ---
 
