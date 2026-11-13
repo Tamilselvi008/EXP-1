@@ -1,6 +1,6 @@
 ## EXPERIMENT NO. 1 – VERIFICATION OF KIRCHHOFF'S LAWS
 
-| **Name:** |muthuvel | **Reg. No.:** | tsec268 |
+| **Name:** |  | **Reg. No.:** |  |
 |---|---|---|---|
 | **Date:** | | **Batch / Section:** | |
 
@@ -86,21 +86,15 @@ Build the KVL and KCL circuits in Proteus using the same resistor values and sup
 
 | S. No. | Supply voltage Vs (V) | VR1 (V) | VR2 (V) | VR3 (V) | VR1 + VR2 + VR3 (V) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | 100 | 15 | 25 |52 | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+| Theoritical |  |  |  | | |
+| Practical | | | | | |
 
 ### B. KCL – Current measurements
 
 | S. No. | Supply voltage Vs (V) | Total current It (A) | Branch current I1 (A) | Branch current I2 (A) | Branch current I3 (A) | I1 + I2 + I3 (A) |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | | | | | | |
-| 2 | | | | | | |
-| 3 | | | | | | |
-| 4 | | | | | | |
-| 5 | | | | | | |
+| Theoritical | | | | | | |
+| Practical | | | | | | |
 
 ## CALCULATIONS
 
