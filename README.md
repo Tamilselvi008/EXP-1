@@ -1,6 +1,6 @@
 ## EXPERIMENT NO. 1 – VERIFICATION OF KIRCHHOFF'S LAWS
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** |muthuvel | **Reg. No.:** | tsec268 |
 |---|---|---|---|
 | **Date:** | | **Batch / Section:** | |
 
@@ -86,7 +86,7 @@ Build the KVL and KCL circuits in Proteus using the same resistor values and sup
 
 | S. No. | Supply voltage Vs (V) | VR1 (V) | VR2 (V) | VR3 (V) | VR1 + VR2 + VR3 (V) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | | | | | |
+| 1 | 100 | 15 | 25 |52 | |
 | 2 | | | | | |
 | 3 | | | | | |
 | 4 | | | | | |
