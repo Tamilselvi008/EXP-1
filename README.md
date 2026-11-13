@@ -2,7 +2,7 @@
 
 | **Name:** |TAMILSELVI S  | **Reg. No.:** | 26016264|
 |---|---|---|---|
-| **Date:** | 13-11-2026| **Batch / Section:** |260DJ166 |
+| **Date:** | 13-11-2026| **Batch / Section:** |26ODJ166 |
 
 ---
 
